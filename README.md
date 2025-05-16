@@ -37,7 +37,7 @@ To run you will need the following
 ### Installation
 Clone the repo
    ```sh
-   git clone https://github.com/NCCA/pipeline-project-Robijn98.git
+   git clone git@github.com:Robijn98/maya_transfer_node.git
    ```
 <!-- USAGE EXAMPLES -->
 ## Usage
