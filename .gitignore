@@ -1,0 +1,7 @@
+build
+.vscode
+.idea
+archive
+__pycache__
+.pytest_cache
+trash
