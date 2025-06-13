@@ -88,5 +88,4 @@ weights you can't paint it anymore, it will reset.
   
 </div>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+
